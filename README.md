@@ -54,8 +54,10 @@ We will evaluate you on your ability to solve the problem defined in the require
 If you have any questions regarding requirements, do not hesitate to email your contact at theScore for clarification.
 
 ### Installation and running this solution
-1. Git clone 
-2. cd into the folder and install required dependencis
+1. Git clone project
+    `git clone git@github.com:odushimi/nfl-rushing.git`
+2. cd into the folder and install required dependencies
+    `cd nfl-rushin`
     `npm install`
-3. Run the project
+3. Run the project and view webpage at http://localhost:3000
     `npm start`
